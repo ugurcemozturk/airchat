@@ -1,0 +1,1 @@
+send.d: ../send.c
